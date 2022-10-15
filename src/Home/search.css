@@ -1,0 +1,19 @@
+.search_container{
+    background-color: #81667A;
+    padding: 0.25rem;
+    color:#fff;
+}
+
+.search_bar_button {
+    display: flex;
+    border-style: none;
+}
+
+input {
+    width: 90%;
+}
+
+.search-button {
+    width: 10%;
+    background-color: #F04432;
+}
